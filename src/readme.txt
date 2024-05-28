@@ -1,8 +1,9 @@
--------------------------------------
- Giovanni Giorgio mod for Arx Fatalis
--------------------------------------
+------------------------------
+ Buscemi eyes Arx Fatalis mod
+------------------------------
 
-Makes the fisherman in the city of Arx say the famous line from Daft Punk's song "Giorgio by Moroder"
+An Arx Fatalis texture pack which gives the super baggy eyes of Steve Buscemi
+to the player and every NPC that has eyes
 
 --------------
  Installation
@@ -15,19 +16,13 @@ your Arx Fatalis/Arx Libertatis game's root folder
  Uninstall
 -----------
 
-Remove the following files from your Arx Fatalis/Arx Libertatis game's root folder:
-- graph/obj3d/interactive/npc/human_base/human_base_0114/human_base.asl
-- speech/deutch/giorgio-music.wav
-- speech/english/giorgio-music.wav
-- speech/francais/giorgio-music.wav
-- speech/deutch/giorgio-speech.wav
-- speech/english/giorgio-speech.wav
-- speech/francais/giorgio-speech.wav
+Remove the graph/obj3d/textures and graph/interface/menus folders from your
+Arx Fatalis/Arx Libertatis game's root folder.
 
-Or if you don't have any other mods installed, then just delete the "graph" and "speech" folders
+Or if you don't have any other mods installed, then just delete the "graph" folder
 
 ----------------
  External links
 ----------------
 
-Homepage: https://github.com/meszaros-lajos-gyorgy/arx-mod-giovanni-giorgio
+Homepage: https://github.com/meszaros-lajos-gyorgy/arx-mod-buscemi-eyes
